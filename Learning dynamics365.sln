@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeWork1", "HomeWork1", "{2F56D5D1-098B-4A13-983D-92CF1DA363D1}"
+	ProjectSection(SolutionItems) = preProject
+		Common.js = Common.js
+		InformationRequest.js = InformationRequest.js
+		Lessons.js = Lessons.js
+		RegistrationForTheCourse.js = RegistrationForTheCourse.js
+		Student.js = Student.js
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentPlugin", "StudentPlugin\StudentPlugin.csproj", "{955B0606-C43F-4B5B-8B5E-7C1895382F90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact", "Contact\Contact.csproj", "{050B8B68-F978-4792-B876-A662FAF0A8A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacticeCreatePlugIn", "PacticeCreatePlugIn\PacticeCreatePlugIn.csproj", "{68BF95BE-7CAE-4355-8180-F84A7D46EAD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{955B0606-C43F-4B5B-8B5E-7C1895382F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955B0606-C43F-4B5B-8B5E-7C1895382F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955B0606-C43F-4B5B-8B5E-7C1895382F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955B0606-C43F-4B5B-8B5E-7C1895382F90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{050B8B68-F978-4792-B876-A662FAF0A8A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{050B8B68-F978-4792-B876-A662FAF0A8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{050B8B68-F978-4792-B876-A662FAF0A8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{050B8B68-F978-4792-B876-A662FAF0A8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BF95BE-7CAE-4355-8180-F84A7D46EAD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BF95BE-7CAE-4355-8180-F84A7D46EAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BF95BE-7CAE-4355-8180-F84A7D46EAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BF95BE-7CAE-4355-8180-F84A7D46EAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0967002-CDFA-46A3-A25B-742D70755A05}
+	EndGlobalSection
+EndGlobal
